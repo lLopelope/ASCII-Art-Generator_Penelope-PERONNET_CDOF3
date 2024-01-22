@@ -1,4 +1,4 @@
-#ASCII-Art-Generator Pénélope 
+# ASCII-Art-Generator Pénélope 
 
 
 In this project, you have access to a python code that converts everything you write into ASCII art. 
