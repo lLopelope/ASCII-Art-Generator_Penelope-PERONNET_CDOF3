@@ -1,6 +1,13 @@
 # ASCII-Art-Generator Pénélope 
 
-## In this project, you have access to a python code that converts everything you write into ASCII art. 
-To do so, all you have to do is to run the ASCII-art-generator.py file and write what you want in the terminal.
-This app uses the pyfiglet library to properly function, so make sure you download it!
-You can contribute to this project by helping optimizing this code.
+## Description
+In this project, you have access to a python code that converts everything you write into ASCII art. 
+
+## Prerequisite
+you need a python app to use this project
+
+## installation
+you need to install the pyfiglet library.
+
+ ## License
+This project is distributed under the MIT License. See the LICENSE file for more information.
