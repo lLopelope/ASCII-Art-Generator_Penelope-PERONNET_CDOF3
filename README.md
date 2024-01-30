@@ -4,7 +4,7 @@
 This project, is all about creating a python codes that converts everything you write into ASCII art. 
 
 ## Prerequisite
-In order to run this prject you will need : 
+In order to run this project you will need : 
 - python (if you don't have it already installed : you can find out how [here](https://realpython.com/installing-python/) )
 - the pyfiglet library 
 --> `pip install pyfiglet`
